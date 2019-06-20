@@ -1,1 +1,2 @@
-from app import app
+# Import Flask application
+from app import application
